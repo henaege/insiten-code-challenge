@@ -1,0 +1,52 @@
+{
+  "targets": [
+    {
+      "title": "Target Company B",
+      "location": "Columbua=s",
+      "website": "target.com/B",
+      "employees": "200",
+      "industry": "Hospitality",
+      "ticker": "tgt",
+      "name": "Gwen",
+      "email": "gweb@targetco.io",
+      "phone": "123-456-7890",
+      "status": "Declined",
+      "id": 10,
+      "assets": "456789",
+      "liabilities": "234566",
+      "grossProfit": "345534"
+    },
+    {
+      "title": "Company 3",
+      "location": "Anchorage, AK",
+      "website": "itscoldhere.com",
+      "employees": "3",
+      "industry": "Food & Beverage",
+      "ticker": "ICE",
+      "name": "Jon Snow",
+      "email": "snow@itscoldhere.com",
+      "phone": "000-000-0000",
+      "assets": "9084725",
+      "liabilities": "654788",
+      "grossProfit": "234677",
+      "status": "Researching",
+      "id": 12
+    },
+    {
+      "title": "Ashley's Bracelets",
+      "location": "Atlanta",
+      "website": "www.tripleathreat.com",
+      "employees": "2",
+      "industry": "Retail",
+      "ticker": "TripleAThreat",
+      "name": "Ashley Tolliver",
+      "email": "altolliver@iamdrew.net",
+      "phone": "1234567890",
+      "assets": "450000",
+      "liabilities": "125000",
+      "grossProfit": "325000",
+      "status": "Approved",
+      "id": 13
+    }
+  ]
+}
